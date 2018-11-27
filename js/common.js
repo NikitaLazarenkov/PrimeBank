@@ -1,0 +1,5 @@
+
+function callclosebtn() {
+	$.magnificPopup.close();
+}
+
